@@ -1,7 +1,6 @@
 # VGG-Kface : An Optimization Study on Korean Face Recognition Using VGG-Face
-***
 This is a PyTorch implementation of the paper "VGG-Kface : An Optimization Study on Korean Face Recognition Using VGG-Face"
-
+---
 As the face recognition model is tailored to Western faces, it is necessary to improve the recognition performance of Korean faces. Born 
 In this paper, we add a Korean face dataset provided by AIHub to the face recognition model and compare Westerners
 Facial recognition was conducted by adding the characteristics of Koreans. of the image pair of continuous learning 
