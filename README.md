@@ -16,8 +16,8 @@ The main model for image learning was the VGG-Face model and continuous learning
 This is because smaller models cannot be implemented due to the capacity problem of VRAM.
 
 # How to Start
-- train the ```vggface_transfer_learnin_k``
-- and you can evaluate hierarchy by ``set_decision_boundaryeeeeer```
+- train the ```bash  vggface_transfer_learnin_k``
+- and you can evaluate hierarchy by ``bash  set_decision_boundaryeeeeer```
 
 # Result
 This is a result of the performance assessment based on the number of images per person
