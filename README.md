@@ -23,3 +23,6 @@ This is because smaller models cannot be implemented due to the capacity problem
 This is a result of the performance assessment based on the number of images per person
 
 ![image](https://github.com/matrix215/VGG-Kface/assets/101815603/9f005538-87ba-4671-afe7-e78328ee0af7)
+
+![image](https://github.com/matrix215/VGG-Kface/assets/101815603/f4b0cf9f-8db3-45ac-b387-050f20e8a299)
+
