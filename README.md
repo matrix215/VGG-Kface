@@ -14,4 +14,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=da
 # Requirements
 The main model for image learning was the VGG-Face model and continuous learning to improve performance. Therefore, it is implemented using V100 GPU or A100 GPU in the Google Colab environment.
 This is because smaller models cannot be implemented due to the capacity problem of VRAM.
-# 
+
+# How to Start
+- train the ```vggface_transfer_learnin_k``
+- and you can evaluate hierarchy by ``set_decision_boundaryeeeeer```
