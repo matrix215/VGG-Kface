@@ -1,5 +1,5 @@
 # VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
-This is a Tensorflow implementation of the paper "VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face"
+This is a Tensorflow implementation of the paper "VGG-Kface"
 ---
 As the face recognition model is tailored to Western faces, it is necessary to improve the recognition performance of Korean faces. Born 
 In this paper, we add a Korean face dataset provided by AIHub to the face recognition model and compare Westerners
